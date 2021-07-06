@@ -205,12 +205,10 @@ html {
 }
 
 .main-content .section-light.contact button {
+  margin-top: 40px;
   width: 100%;
-  background-color: #43485c;
-  color: white;
-  height: 50px;
   font-size: 1.1rem;
-  text-transform: uppercase;
+  font-color: whitesmoke;
   font-family: 'Poppins', sans-serif;
 }
 
