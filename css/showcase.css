@@ -204,10 +204,18 @@ html {
   padding: 200px;
 }
 
-.main-content .section-light.contact button {
-  margin-top: 40px;
+.main-content .section-light.contact .registry button {
+  margin-top: 20px;
   width: 100%;
-  font-size: 1.1rem;
+  font-size: 1.0rem;
+  font-color: whitesmoke;
+  font-family: 'Poppins', sans-serif;
+}
+
+.main-content .section-light.contact button {
+  margin-top: 20px;
+  width: 100%;
+  font-size: 1.5rem;
   font-color: whitesmoke;
   font-family: 'Poppins', sans-serif;
 }
